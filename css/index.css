@@ -95,7 +95,7 @@ main .wrapper-main{
   background-position: center;
   background-size: contain;
   margin: auto;
-  background-image: url('/img/groud.png');
+  background-image: url('img/groud.png');
   z-index: -100;
 } 
 .wrapper-content{
